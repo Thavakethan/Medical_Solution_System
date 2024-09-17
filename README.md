@@ -40,7 +40,8 @@ PPT Link:
 
 Open gitbash and type the following command:
 
-##### git clone 
+
+##### git clone  https://github.com/Thavakethan/Medical_Solution_System.git
 
 *************************************************************
 Create virtual environment, Open Visual Studio code and type the following command in terminal:
